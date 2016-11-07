@@ -7,16 +7,16 @@ Project Manager:
 Vivek Sanghvi Jain 
  
 Technical Writer:
-Manas Churi
+Manas Churi, 
 Abdullah Albadri
 
 Software Designer:
 William O’Connor
  
 Hardware Designer:
-Ling He
+Ling He, 
 Manas Churi
 
 Test Engineer:
-Abdullah Albadri
+Abdullah Albadri, 
 Simin Wang
